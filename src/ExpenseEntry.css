@@ -1,0 +1,62 @@
+
+   .expense-entry-form {
+    background-color: #f5f5f5;
+    padding: 5px 20px 20px 20px;
+    border-radius: 0px 0px 8px 8px;
+    box-shadow: 0 2px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-group-Expense {
+    margin-bottom: 10px;
+  }
+  
+  .input-group-Expense label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group-Expense input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .input-group-inline-Expense {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-group-inline-Expense input {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .add-button-Expense {
+    background-color: #dc3545;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .add-button-Expense:hover {
+    background-color: #b82b3f;
+  }
+  

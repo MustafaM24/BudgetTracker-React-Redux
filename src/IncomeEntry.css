@@ -1,0 +1,62 @@
+
+.income-entry-form {
+  background-color: #f5f5f5;
+  padding: 10px 20px 5px 20px;
+  border-radius: 8px 8px 0px 0px;
+  box-shadow: 0 2px 0px rgba(0, 0, 0, 0.1);
+}
+
+.input-group-income {
+  margin-bottom: 10px;
+}
+
+.input-group-income label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group-income input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.input-group-inline-income {
+  display: flex;
+  align-items: center;
+}
+
+.input-group-inline-income input {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group input {
+  width: 95%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.add-button-income {
+  background-color: #007bff;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.add-button-income:hover {
+  background-color: #0056b3;
+}
