@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BudgetTracker-React-Redux/static/css/main.4891e9f8.css",
+    "main.js": "/BudgetTracker-React-Redux/static/js/main.f4a3d629.js",
+    "index.html": "/BudgetTracker-React-Redux/index.html",
+    "main.4891e9f8.css.map": "/BudgetTracker-React-Redux/static/css/main.4891e9f8.css.map",
+    "main.f4a3d629.js.map": "/BudgetTracker-React-Redux/static/js/main.f4a3d629.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4891e9f8.css",
+    "static/js/main.f4a3d629.js"
+  ]
+}
